@@ -2,7 +2,7 @@
   "name": "brainwave",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://imfantin.github.io/Brainwave/",
+  "homepage": "https://imfantin.github.io/Brainwave",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
